@@ -1,0 +1,3 @@
+export const NAV_ROOT_AUTH = 'NAV_ROOT_AUTH'
+export const NAV_ROOT_MAIN = 'NAV_ROOT_MAIN'
+export const NAV_ROOT_LOADING = 'NAV_ROOT_LOADING'
